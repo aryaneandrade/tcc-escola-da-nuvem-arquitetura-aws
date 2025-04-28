@@ -8,7 +8,7 @@ A arquitetura proposta foi desenvolvida para assegurar alta disponibilidade, res
 
 ## Evolução da Arquitetura AWS para Alta Disponibilidade e Recuperação de Desastres
 
-### Arquitetura Anterior
+### Imagem - Arquitetura Anterior
 
 A **arquitetura anterior** do sistema era simplificada, com diversos pontos de falha que comprometiam a continuidade operacional e a resiliência da infraestrutura:
 
@@ -59,7 +59,7 @@ A **arquitetura otimizada** foi projetada para resolver as limitações da confi
 - **AWS CloudFormation** para a definição e gestão da infraestrutura como código, assegurando a automação e a consistência dos recursos.
 - **AWS IAM** para gerenciamento de identidade e controle de acesso.
 
-#### Arquitetura Otimizada
+#### Imagem - Arquitetura Otimizada
 ![Arquitetura Otimizada](arquitetura-otimizada.jpeg)
 
 ---
