@@ -8,7 +8,7 @@ A arquitetura proposta foi desenvolvida para assegurar alta disponibilidade, res
 
 ## Evolução da Arquitetura AWS para Alta Disponibilidade e Recuperação de Desastres
 
-### Imagem - Arquitetura Anterior
+### Arquitetura Anterior
 
 A **arquitetura anterior** do sistema era simplificada, com diversos pontos de falha que comprometiam a continuidade operacional e a resiliência da infraestrutura:
 
@@ -20,7 +20,7 @@ A **arquitetura anterior** do sistema era simplificada, com diversos pontos de f
 
 Essa configuração apresentava falhas críticas, pois não oferecia redundância em múltiplos níveis, comprometendo a disponibilidade e a continuidade do serviço.
 
-#### Arquitetura Anterior
+#### Imagem - Arquitetura Anterior
 ![Arquitetura Anterior](arquitetura-anterior.jpeg)
 
 ---
