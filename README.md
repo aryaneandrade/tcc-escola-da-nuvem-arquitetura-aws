@@ -1,6 +1,6 @@
 # 📚 TCC - Evolução da Arquitetura de E-commerce com Foco em Confiabilidade e Recuperação de Desastres
 
-Em 2024, finalizei uma etapa importante na Escola da Nuvem com a entrega e apresentação do TCC! O trabalho consistiu em evoluir a arquitetura de um e-commerce com foco em Confiabilidade e Recuperação de Desastres, utilizando as melhores práticas da AWS. **Este projeto foi voltado para a evolução da arquitetura, sem realizar testes práticos na AWS.**
+Em 2024, finalizei uma etapa importante na Escola da Nuvem com a entrega e apresentação do TCC! O trabalho consistiu em evoluir a arquitetura de um e-commerce com foco em Confiabilidade e Recuperação de Desastres, utilizando as melhores práticas da AWS. 
 
 A arquitetura foi projetada para garantir alta disponibilidade e rápida recuperação em caso de falhas. Aqui estão os principais componentes:
 
